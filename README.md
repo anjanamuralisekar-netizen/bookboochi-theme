@@ -10,7 +10,7 @@ Tags: blog, one-column, right-sidebar, custom-logo, custom-menu, featured-images
 A warm, literary WordPress theme built for Bookboochi — a book review and
 reading blog — hand-coded (no page builder dependency) for speed and for
 SEO / AEO / GEO (Answer & Generative Engine Optimization).
-Website: bookboochi.site
+Website: https://www.bookboochi.site
 
 == Description ==
 
