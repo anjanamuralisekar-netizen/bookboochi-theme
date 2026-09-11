@@ -1,16 +1,24 @@
 
 == Bookboochi ==
+
 Contributors: anjanamuralisekar
+
 Requires at least: 6.4
+
 Tested up to: 6.6
+
 Requires PHP: 7.4
+
 License: GPLv2 or later
+
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
 Tags: blog, one-column, right-sidebar, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, accessibility-ready
 
 A warm, literary WordPress theme built for Bookboochi — a book review and
 reading blog — hand-coded (no page builder dependency) for speed and for
 SEO / AEO / GEO (Answer & Generative Engine Optimization).
+
 Website: https://www.bookboochi.site
 
 == Description ==
